@@ -1,0 +1,46 @@
+h1{
+	color: lightcoral;
+}
+
+b{
+	color: steelblue;
+}
+
+body {
+	background: url("https://aie-internship.com/wp-content/uploads/Co-workers-working-in-start-up-office.jpg");
+	height: 100%;
+
+}
+
+table{
+	background: rgba(400, 130, 360, 0.4);
+	margin-left: auto;
+	margin-right: auto;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+caption{
+	background: rgba(400, 130, 360, 0.4);
+}
+
+section{
+	background: rgba(185, 645, 420, 0.3);
+	margin-right: auto;
+	margin-left: auto;
+	width: 80%;
+}
+
+section:hover{
+    color: hotpink;
+}
+
+i:hover{
+	color: green;
+}
+
+table {
+	color: brown;
+}

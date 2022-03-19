@@ -1,0 +1,11 @@
+body{
+	color: rgba(1, 1, 1, 0.8);
+	background: rgba(917, 19, 930, 1.0);
+}
+
+.sidehead{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 40%;
+}

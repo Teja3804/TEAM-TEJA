@@ -1,0 +1,40 @@
+#self-serv {
+
+	background: url(https://www.medpiper.com/static/media/LOGO_MedPiper_Full.a5440de1.svg);
+    height: 100%;
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+
+}
+
+body{
+	background: rgba(100, 100, 800, 0.2);
+}
+
+h1{
+	display: inline-block;
+	color: gray;
+}
+
+div{
+	color: palevioletred;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 30%;
+}
+
+button:hover{
+	color: blue;
+	background: mediumvioletred;
+}
+
+#self-serv {
+	display: inline-block;
+	column-width: auto;
+}
+
